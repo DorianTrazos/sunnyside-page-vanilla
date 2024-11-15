@@ -109,6 +109,7 @@ h2 {
   background-color: #fff;
   color: #808397;
   translate: 0 calc(-106px - 100%);
+  /* translate: X Y -> X */
   transition: translate 0.3s;
 }
 
